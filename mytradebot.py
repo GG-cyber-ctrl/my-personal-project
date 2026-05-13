@@ -209,4 +209,10 @@ class TradingBotGUI:
 if __name__ == "__main__":
     root = tk.Tk()
     app = TradingBotGUI(root)
-    root.mainloop()
+    root.mainloop() 
+    #changes I made, The jupityr stuff was too complex so I avoided it 
+    #I did make a virtual environment too hide the keys cause some dude on stack overflow said it was necessary
+    #it wasn't actually necessary because no one else would use it
+    #had to change a lot of the program due to being outdated, looked a lot of stuff up for that 
+    #https://github.com/romanmichaelpaolucci/AI_Trading_Bot 
+    #https://www.youtube.com/watch?v=_87QHZXOOKA 
